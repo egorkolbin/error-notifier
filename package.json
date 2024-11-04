@@ -1,0 +1,26 @@
+{
+  "name": "js-error-notifier",
+  "version": "1.0.5",
+  "description": "A TypeScript library for displaying error pop-ups when console errors or unhandled exceptions occur.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "typescript",
+    "error",
+    "notification",
+    "console",
+    "popup"
+  ],
+  "author": "egorkolbin",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/egorkolbin/error-notifier"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.3"
+  }
+}
